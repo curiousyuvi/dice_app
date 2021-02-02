@@ -4,7 +4,10 @@ listener which on click displays random dice face which are nothing but AssetIma
  myself on photoshop.
 
 If you want to test the app on your android device , you need to clone this repo in your system
-and you should have flutter environment installed , then run the command "flutter build apk --split-per-abi"
+and you should have flutter environment installed , then run the command ```flutter build apk --split-per-abi```
 then you have to install 'app.apk' file located in
-"build\app\outputs\flutter-apk\app.apk".
+```build\app\outputs\flutter-apk\app.apk```
 
+### Installing Flutter:
+
+##### `sudo snap install flutter --classic`
